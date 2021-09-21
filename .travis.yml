@@ -1,17 +1,12 @@
 sudo: false
 language: node_js
 node_js:
-  - 14.17.6
+  - 10 # use nodejs v10 LTS
 cache: npm
 branches:
   only:
-    - main
+    - master # build master branch only
 script:
-  - npm install -g cnpm --registry=https://registry.npm.taobao.org
-  - cnpm install -g hexo
-  - cnpm install -g hexo-cli
-  - npm install
-  - hexo clean
   - hexo generate # generate static files
 deploy:
   provider: pages
@@ -21,4 +16,3 @@ deploy:
   on:
     branch: master
   local-dir: public
-  
