@@ -62,7 +62,6 @@ menu:
   Gay♂Hub: https://github.com/HanHan233 || icon-github
   时间线: /archives/ || icon-archive 
   关于: /about/ || icon-user
-  #gallery: /categories/图集/ || icon-gallery
 
 # 社交链接
 social:
@@ -94,10 +93,10 @@ links:
 footer:
   since: 2015
   powered: true
-  theme: true
+  theme: false
   beian:
     enable: true
-    icp: 
+    icp: 萌ICP备 20211454号
   icon:
     enabled: true
     name: icon-heart
