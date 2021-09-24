@@ -114,6 +114,7 @@ busuanzi:
 comment:
   use: 
     - gitalk
+    - livere
   ## Gitalk
   gitalk_client_id: 2a69ae32b5f682b6b8be
   gitalk_client_secret: 431146f58a726b4482c3637c0a91d7ead892f2a2
