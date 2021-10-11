@@ -13,7 +13,7 @@ install:
   - npm install hexo-cli -g
   - npm install hexo -g
   - npm install
-  - npm audit fix --force
+  #- npm audit fix --force
 script:
   - npm ls --depth 0
   - hexo g
