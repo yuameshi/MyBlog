@@ -19,8 +19,8 @@ search:
 
 # Google Adsense广告代码
 google_adsense:
-  enabled: true #开启广告
-  auto_ad: true #自动广告
+  enabled: false  #开启广告
+  auto_ad: true   #自动广告
   page_ad: false  #单页启用广告
   pub_id: 
   footer_slot: 
@@ -91,7 +91,7 @@ links:
 #####页脚#####
 # 页脚
 footer:
-  since: 2015
+  since: 2019
   powered: true
   theme: false
   beian:
@@ -115,11 +115,11 @@ comment:
   use: 
     - gitalk
   ## Gitalk
-  gitalk_client_id: 2a69ae32b5f682b6b8be
-  gitalk_client_secret: 431146f58a726b4482c3637c0a91d7ead892f2a2
-  gitalk_repo: gittalk-of-HanHan233.github.io
+  gitalk_client_id: d472e55e8377658f9aac
+  gitalk_client_secret: e15614268d3bc1509cc3681baaadb1486310f66a
+  gitalk_repo: https://github.com/HanHan233/blog-comment
   gitalk_owner: HanHan233
-  gitalk_sid_type: 2
+  gitalk_sid_type: location.pathname
   gitalk_distractionFreeMode: true
   ## Disqus
   #disqus_shortname:
