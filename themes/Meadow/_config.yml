@@ -117,7 +117,7 @@ comment:
   ## Gitalk
   gitalk_client_id: d472e55e8377658f9aac
   gitalk_client_secret: e15614268d3bc1509cc3681baaadb1486310f66a
-  gitalk_repo: https://github.com/HanHan233/blog-comment
+  gitalk_repo: blog-comment
   gitalk_owner: HanHan233
   gitalk_sid_type: gittalk
   gitalk_distractionFreeMode: true
