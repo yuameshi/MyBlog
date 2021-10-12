@@ -119,7 +119,7 @@ comment:
   gitalk_client_secret: e15614268d3bc1509cc3681baaadb1486310f66a
   gitalk_repo: https://github.com/HanHan233/blog-comment
   gitalk_owner: HanHan233
-  gitalk_sid_type: location.pathname
+  gitalk_sid_type: gittalk
   gitalk_distractionFreeMode: true
   ## Disqus
   #disqus_shortname:
