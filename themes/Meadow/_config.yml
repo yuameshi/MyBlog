@@ -119,7 +119,7 @@ comment:
   gitalk_client_secret: e15614268d3bc1509cc3681baaadb1486310f66a
   gitalk_repo: blog-comment
   gitalk_owner: HanHan233
-  gitalk_sid_type: gittalk
+  gitalk_sid_type: www.han-han.xyz
   gitalk_distractionFreeMode: true
   ## Disqus
   #disqus_shortname:
