@@ -15,6 +15,7 @@ install:
   - npm install
   #- npm audit fix --force
 script:
+  - rm -f ./source/_posts/hello-world.md
   - npm ls --depth 0
   - hexo g
 deploy:
