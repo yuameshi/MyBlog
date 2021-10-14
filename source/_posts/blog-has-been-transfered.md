@@ -1,5 +1,5 @@
 ---
-title: blog-has-been-transfered
+title: 博客迁移了吔
 date: 2021-09-24 21:48:25
 tags: Hexo WordPress
 ---
