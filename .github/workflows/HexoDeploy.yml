@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 'lts/12.18.1'
+          node-version: '17'
 
       - name: Setup Hexo
         env:
