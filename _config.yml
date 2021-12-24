@@ -102,7 +102,9 @@ theme: Meadow
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:HanHan233/HanHan233.github.io.git
+  branch: gh-pages
 feed:
   enable: true
   type: rss2

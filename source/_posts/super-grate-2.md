@@ -17,7 +17,7 @@ categories:
 date: 2021-03-05 08:00:00
 ---
 
-![](/wp-content/uploads/2021/04/IMG_20210408_222157-1010x1024.jpg)
+![](/wp-content/uploads/2021/04/IMG_20210408_222157.jpg)
 
 相关链接：
 
