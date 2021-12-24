@@ -289,7 +289,7 @@
   user-select: none;
   color: rgba(0, 0, 0, 0.54);
 }
-.icon-people::before {
+.icon-insert-chart::before {
   content: "insert_chart";
   text-size-adjust: 100%;
   cursor: pointer;
