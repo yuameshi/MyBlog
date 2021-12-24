@@ -289,7 +289,9 @@
   user-select: none;
   color: rgba(0, 0, 0, 0.54);
 }
-.icon-insert-chart::before {
+.iconInsertChart::before {
+  /* <i class="mdui-icon material-icons">&#xe24b;</i> */
+  /* <i class="mdui-icon material-icons">insert_chart</i> */
   content: "insert_chart";
   text-size-adjust: 100%;
   cursor: pointer;
