@@ -15,7 +15,9 @@ jobs:
     steps:
       - name: Get Information
         run: |
-          echo $CI $GITHUB_WORKFLOW $GITHUB_RUN_ID $GITHUB_RUN_NUMBER $GITHUB_JOB $GITHUB_ACTION  $GITHUB_EVENT_NAME $GITHUB_ACTION_PATH $GITHUB_ACTIONS $GITHUB_ACTOR $GITHUB_REPOSITORY $GITHUB_EVENT_NAME $GITHUB_EVENT_PATH $GITHUB_WORKSPACE $GITHUB_SHA $GITHUB_REF $GITHUB_REF_NAME $GITHUB_REF_PROTECTED $GITHUB_REF_TYPE $GITHUB_HEAD_REF $GITHUB_BASE_REF $GITHUB_SERVER_URL $GITHUB_API_URL $GITHUB_GRAPHQL_URL $RUNNER_NAME $RUNNER_OS $RUNNER_ARCH $RUNNER_TEMP $RUNNER_TOOL_CACHE
+          sudo apt install jq -y
+          var=`cat test.txt | jq -r '.commits[0].message'`
+          echo $var
           echo |cat /home/runner/work/_temp/_github_workflow/event.json 
       - name: Push to Telegram Channel
         run: |
