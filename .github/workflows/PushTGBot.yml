@@ -1,4 +1,4 @@
-name: HexoDeploy
+name: Push TG Channel
 
 on:
   push:
