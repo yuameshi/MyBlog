@@ -16,7 +16,7 @@ jobs:
       - name: Get Information
         run: |
           sudo apt install jq -y
-          var=`cat test.txt | jq -r '.commits[0].message'`
+          var=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
           echo $var
           echo |cat /home/runner/work/_temp/_github_workflow/event.json 
       - name: Push to Telegram Channel
