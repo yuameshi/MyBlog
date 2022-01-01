@@ -18,4 +18,4 @@ jobs:
           echo Commit message: $commitMsg
       - name: Push to Telegram Channel
         run: |
-         curl https://api.telegram.org/bot$botToken/sendMessage -XPOST -d 'chat_id=-1001638488826&text=$commitMsg'
+         curl https://api.telegram.org/bot$botToken/sendMessage -XPOST -d chat_id=-1001638488826&text=$commitMsg
