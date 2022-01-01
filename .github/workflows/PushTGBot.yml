@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Get Information
         run: |
-        echo "Commit: $GITHUB_EVENT_NAME"
+          echo "Commit: $GITHUB_EVENT_NAME"
 
       - name: Push to Telegram Channel
         run: |
-        echo "Deploying to production server on branch $GITHUB_REF"
+          echo "Deploying to production server on branch $GITHUB_REF"
