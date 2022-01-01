@@ -9,16 +9,13 @@ jobs:
   Push:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
-    # env: 
-      # GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-      # GH_REPO: ${{ github.repository }}
+    env: 
+      botToken: ${{ secrets.TG_BOT_TOKEN }}
     steps:
       - name: Get Information
         run: |
-          sudo apt install jq -y
-          var=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
-          echo $var
-          echo |cat /home/runner/work/_temp/_github_workflow/event.json 
+          commitMsg=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
+          echo Commit message: $commitMsg
       - name: Push to Telegram Channel
         run: |
-          echo DP
+         curl https://api.telegram.org/bot$botToken/sendMessage -XPOST -d 'chat_id=-1001638488826&text=TesT'
