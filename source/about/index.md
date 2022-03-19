@@ -47,15 +47,16 @@ date: 2000-12-31 23:55:00
 
 （这么多支付方式怕不是想钱想疯了）
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/wechatRewardCode.png)
+<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/wechatRewardCode.png" style="width: 100%;max-width: 320px">
+
 
 微信赞赏码
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/qqPaymentCode.png)
+<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/qqPaymentCode.png" style="width: 100%;max-width: 320px">
 
 QQ支付
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/afdian-%E6%86%A8%E6%86%A8.jpg)
+<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/afdian-%E6%86%A8%E6%86%A8.jpg" style="width:100%;max-width: 320px">
 
 爱发电
 
