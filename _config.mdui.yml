@@ -19,7 +19,7 @@ info:
       link: https://twitter.com/HanHan_233
       fa: 'fa-twitter'
     GitHub:
-      link: https://github.com/HanHan233
+      link: https://github.com/Yuameshi
       fa: 'fa-github'
     Telegram:
       link: https://t.me/hanhan23333
@@ -62,10 +62,10 @@ post:
       link: 'https://cdn.han-han.xyz/background-pictures/afdian-憨憨.jpg'
       fa: 'fa-afadian'
     微信:
-      link: 'https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/wechatRewardCode.png'
+      link: 'https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/wechatRewardCode.png'
       fa: 'fa-wechat'
     QQ:
-      link: 'https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/qqPaymentCode.png'
+      link: 'https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/qqPaymentCode.png'
       fa: 'fa-qq'
 
 share_menu:
@@ -88,7 +88,7 @@ pages:
     type: 'internal'
     md: "&#xe7fb;"
   Gay♂Hub:
-    link: "https://github.com/HanHan233"
+    link: "https://github.com/Yuameshi"
     type: 'external'
     md: "&#xe869;"
   关于&联系我:

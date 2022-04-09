@@ -21,25 +21,25 @@ date: 2020-04-10 11:58:00
 
 1.打开**控制面板**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200410/6cd3fab94e34c00fdee16a7d818405c960ca85c5.png@1320w_1308h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200410/6cd3fab94e34c00fdee16a7d818405c960ca85c5.png@1320w_1308h.jpg)
 
 1.打开控制面板
 
 2.进入**程序和功能**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200410/4e6cd9e427c875da72b1c8e55784361be1f83560.png@1320w_996h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200410/4e6cd9e427c875da72b1c8e55784361be1f83560.png@1320w_996h.jpg)
 
 2.进入程序和功能
 
 3.进入**启用或关闭Windows功能**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200410/5752ac07026b314a8203bb7bcc277e2a64bd0bb1.png@1320w_996h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200410/5752ac07026b314a8203bb7bcc277e2a64bd0bb1.png@1320w_996h.jpg)
 
 进入启用或关闭Windows功能
 
 4.Web核心必选，Internet Information Service内的项目可以看需求勾选
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200410/4c8b745e4a6f1bd0f17c4ae25d8b4b230862ec75.png@1246w_1180h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200410/4c8b745e4a6f1bd0f17c4ae25d8b4b230862ec75.png@1246w_1180h.jpg)
 
 选择需要的功能
 
@@ -47,7 +47,7 @@ date: 2020-04-10 11:58:00
 完成之后点击确定。  
 在功能配置完全之后，你访问127.0.0.1或者localhost都可以访问到这样一个页面
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/img/initial.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/img/initial.jpg)
 
 默认页面
 

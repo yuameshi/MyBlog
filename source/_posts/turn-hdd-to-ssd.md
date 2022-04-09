@@ -12,19 +12,19 @@ date: 2020-04-17 13:08:00
 
 叫PrimoCache，话不多说，直接上图:
 
-[![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/aida64.jpg)](https://blog-old.han-han.xyz/passages/20200417/aida64.jpg)
+[![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/aida64.jpg)](https://blog-old.han-han.xyz/passages/20200417/aida64.jpg)
 
 AIDA64磁盘信息
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/10151.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/10151.jpg)
 
 CDM测试结果1
 
-[![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/10622.jpg)](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/CDM_20200415163824.txt)
+[![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/10622.jpg)](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/CDM_20200415163824.txt)
 
 CDM测试结果2（点击查看源TXT）
 
-[![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/10933.jpg)](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200417/CDM_20200415153952.txt)
+[![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/10933.jpg)](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/CDM_20200415153952.txt)
 
 CDM测试结果3（点击查看源TXT）
 

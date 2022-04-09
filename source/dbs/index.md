@@ -16,7 +16,7 @@ DrBlack系统服务是为DrBlack系列系统定制的一个桌面应用程序。
 
 DrBlack —— DrBlack系列系统
 
-HanHan233 —— DrBlack系统服务主程序、资讯
+Yuameshi —— DrBlack系统服务主程序、资讯
 
 # 第三方库
 

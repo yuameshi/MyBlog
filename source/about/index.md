@@ -13,7 +13,7 @@ date: 2000-12-31 23:55:00
 
 欢迎来到我的个人页：[han-han.xyz](https://han-han.xyz/)。
 
-有一个 Telegram账户：[@hanhan23333](https://t.me/hanhan23333)。
+有一个 Telegram账户：[@Yuameshi33](https://t.me/hanhan23333)。
 
 还有个自言自语的TG频道：[@憨の无用之言](https://t.me/IN_ACCESSIBLE_BOOT_DEVICE)
 
@@ -35,11 +35,11 @@ date: 2000-12-31 23:55:00
 
 *   会折腾一点点 Arduino
 
-*   GitHub 蒟蒻一只 [@HanHan233](https://github.com/HanHan233) (别看了别看了啥好的都没有)
+*   GitHub 蒟蒻一只 [@Yuameshi](https://github.com/Yuameshi) (别看了别看了啥好的都没有)
 
 *   除了码程序，另一个爱好就是打三蹦子，2020/4登舰（大非酋）(UID:256690624/256095600)
 
-> 欢迎你的来到，欢迎[友链](https://flyhigher.top/links)。
+> 欢迎你的来到，欢迎友链。
 
 ## 赞助我
 
@@ -47,16 +47,16 @@ date: 2000-12-31 23:55:00
 
 （这么多支付方式怕不是想钱想疯了）
 
-<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/wechatRewardCode.png" style="width: 100%;max-width: 320px">
+<img src="https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/wechatRewardCode.png" style="width: 100%;max-width: 320px">
 
 
 微信赞赏码
 
-<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/qqPaymentCode.png" style="width: 100%;max-width: 320px">
+<img src="https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/qqPaymentCode.png" style="width: 100%;max-width: 320px">
 
 QQ支付
 
-<img src="https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/background-pictures/afdian-%E6%86%A8%E6%86%A8.jpg" style="width:100%;max-width: 320px">
+<img src="https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/afdian-%E6%86%A8%E6%86%A8.jpg" style="width:100%;max-width: 320px">
 
 爱发电
 
@@ -76,8 +76,8 @@ MoYou - 5CNY@2021/08/09
 # 联系我
 
 *   QQ: 2636099143
-*   Telegram: [@hanhan23333](https://t.me/hanhan23333)
-*   Github: [@HanHan233](https://github.com/HanHan233)
+*   Telegram: [@Yuameshi33](https://t.me/hanhan23333)
+*   Github: [@Yuameshi](https://github.com/Yuameshi)
 *   BiliBili：[UID-108238952](https://b23.tv/7bJOta)
 *   Steam：[2636099143](https://steamcommunity.com/id/2636099143)
 *   发送邮件：[hanhan.233@qq.com](mailto:hanhan.233@qq.com)

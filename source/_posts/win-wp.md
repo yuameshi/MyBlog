@@ -37,7 +37,7 @@ date: 2021-02-18 12:15:00
 
         它可以在 [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/) 得到，点击"Download"下载，此时他会弹出一个页面问你是否要注册Oracle账户，您可以按需注册，但在这里我们不需要，单击"**No thanks, just start my download.**"后就可以跳过
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/28f1109c2729d579f2e8ba899e857d4a5dbacac9.png@1320w_710h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/28f1109c2729d579f2e8ba899e857d4a5dbacac9.png@1320w_710h.webp)
 
 下载MySQL
 
@@ -53,7 +53,7 @@ date: 2021-02-18 12:15:00
 
         变量值为MySQL根目录，如图所示
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/d260fa18230a3c014a1eb8feae62cc0bd33b2ac9.png@1320w_706h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/d260fa18230a3c014a1eb8feae62cc0bd33b2ac9.png@1320w_706h.webp)
 
 配置环境变量
 
@@ -61,13 +61,13 @@ date: 2021-02-18 12:15:00
 
             \*我们十分建议您将解压目录中的"**mysql-8.0.23-winx64**"字串删除，否则将会出现一层多余的目录。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/730bb61077b7b266a9c91762dd42de291fce84ea.png@1320w_696h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/730bb61077b7b266a9c91762dd42de291fce84ea.png@1320w_696h.webp)
 
 解压MySQL到你喜欢的目录
 
         在解压完成后，启动管理员命令提示符，进入MySQL根目录，并通过命令`CD`进入**bin**文件夹，如图
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/43134f4a8cd7bb02921bd77718855c5227b5b465.png@1320w_714h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/43134f4a8cd7bb02921bd77718855c5227b5b465.png@1320w_714h.webp)
 
         键入`mysqld --initialize-insecure --user=mysql`，并回车以初始化MySQL的data目录，此时您大可以回到上一级目录确认其是否已经被生成。
 
@@ -75,7 +75,7 @@ date: 2021-02-18 12:15:00
 
         继续键入`net start MySQL`，以启动MySQL服务，如下图所示。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/a79153c2b538592ae2482e95480c086eebfd8cad.png@1320w_666h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/a79153c2b538592ae2482e95480c086eebfd8cad.png@1320w_666h.webp)
 
 这是一个正常的安装结果
 
@@ -95,7 +95,7 @@ date: 2021-02-18 12:15:00
 
         继续键入"exit"，或"quit"退出，以上操作如图所示。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/b3e296c312f38e510f8bf379fea04c554875c2e6.png@1320w_666h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/b3e296c312f38e510f8bf379fea04c554875c2e6.png@1320w_666h.webp)
 
 在MySQL中的操作
 
@@ -105,7 +105,7 @@ date: 2021-02-18 12:15:00
 
         一样，下载完成后解压。复制一份**`php.ini-production`**，并将其重命名为"php.ini"然后将其打开，并将其进行下列图1~3的改动，进行图4的添加，添加内容我会在下方打出来。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/cabab8fe11a336d8e4dcc80e6c4a80f6fcb6856e.png@1320w_702h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/cabab8fe11a336d8e4dcc80e6c4a80f6fcb6856e.png@1320w_702h.webp)
 
 ```
 extension=bz2
@@ -154,7 +154,7 @@ extension=bz2
 
 请按照下图的1~10步依次操作，其中4为下拉框，请注意，5~8请点击右侧的"**…**"并在弹出的文件选择框选择您PHP存放目录下的"**php-cgi.exe**"，最后弹出的确认框请点击**Yes**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/f0ae5240e5fa94ccb81320b9f6eb731c62c30eac.png@1320w_708h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/f0ae5240e5fa94ccb81320b9f6eb731c62c30eac.png@1320w_708h.webp)
 
 IIS添加PHP配置
 
@@ -176,33 +176,33 @@ IIS添加PHP配置
 
     ​首先，如果需要，就新建一个网站，端口随便取，比如说我现在80端口已经有一个，那就加个3300的（如果你是搞域名虚拟主机那就没事了）
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/e61d08ff60fd706764e5f490734673ea6873340c.png@1320w_1040h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/e61d08ff60fd706764e5f490734673ea6873340c.png@1320w_1040h.webp)
 
 **\*\***为避免出现权限问题，得授予一下Everyone权限
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/fe8f61fe743aa0045ef16c28424776b91e155958.png@908w_1196h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/fe8f61fe743aa0045ef16c28424776b91e155958.png@908w_1196h.webp)
 
  **​\*\*\*特别注意：IIS默认的页面没有index.php，所以记得给你的网站添加默认文档（index.php），不然就会出现403**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/e2464c568cdc8bd3d3c5b9b34c9995a5168be9dc.png@1320w_896h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/e2464c568cdc8bd3d3c5b9b34c9995a5168be9dc.png@1320w_896h.webp)
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2cbf1090a2583f27bd455f1fb2e0ca0986fedcda.png@1320w_824h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2cbf1090a2583f27bd455f1fb2e0ca0986fedcda.png@1320w_824h.webp)
 
 **1.2：开始安装WordPress（终）**
 
     ​首先通过浏览器访问你的服务器**域名**，或外部IP（不然你就得后面改）。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/3ef8952580004bd075bca5bdda84de17c24803f8.png@1320w_958h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/3ef8952580004bd075bca5bdda84de17c24803f8.png@1320w_958h.webp)
 
  **​**然后进行WP著名的5分钟安装程序
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2f83d9661baddad55c3c5b78c1f3da0cc606d399.png@1320w_774h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2f83d9661baddad55c3c5b78c1f3da0cc606d399.png@1320w_774h.webp)
 
     ​\*\*如果你服务器的硬盘I/O比较慢，那建议在**php.ini**里搜索并修改`max_execution_time`（单位：秒），然后修改为大些的数值，不然会安装失败（得重置数据库）。
 
     ​在按下"Install WordPress"之后，看到类似下图的界面则证明你成功了
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2c7eb2fce89e3a70defa61fe2495cdbc1d16d809.png@1320w_812h.webp)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/forwarded-images/bilibili-cv9888796/2c7eb2fce89e3a70defa61fe2495cdbc1d16d809.png@1320w_812h.webp)
 
     ​然后按"Log In"登录，就可以开始你的WordPress之旅了（逃）。
 

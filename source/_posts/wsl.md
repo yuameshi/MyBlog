@@ -18,7 +18,7 @@ date: 2020-04-09 10:00:00
 
 无奈，用我老旧的SanDisk做了一个WTG，性能和机械硬盘差不多，就是第一次启动的时候速度要爆炸了...
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200409/myfuckingusb.png)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200409/myfuckingusb.png)
 
 速 度 爆 炸
 

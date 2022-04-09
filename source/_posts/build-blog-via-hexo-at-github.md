@@ -15,7 +15,7 @@ date: 2020-04-30 16:26:00
 > 注意  
 > **Git安装时需要允许命令行访问**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/12f34b60f4ada343757dc46d198734611aec2f2f.png@1320w_996h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/12f34b60f4ada343757dc46d198734611aec2f2f.png@1320w_996h.jpg)
 
 要选带命令行的
 
@@ -29,7 +29,7 @@ date: 2020-04-30 16:26:00
 > 注意  
 > **如果填写"你的用户名.github.io"那么以后你的博客地址则为"你的用户名.github.io"，否则访问地址则为"你的用户名.github.io/仓库名/"**
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/eddd87b85f8158c15c69e8e8772bf3aac1f999f3.png@1320w_666h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/eddd87b85f8158c15c69e8e8772bf3aac1f999f3.png@1320w_666h.jpg)
 
 例如如图创建的代码仓库，访问地址为  
 "i-am-a-loser-using-windows-server.github.io"
@@ -45,7 +45,7 @@ date: 2020-04-30 16:26:00
 > 3.1 解压下载的Zip  
 > 3.2 进入hexo-master，就是有一堆文件那个，在目录下按住Shift右击，选择 `在此处打开Powershell窗口(S)`
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/374d33eb045fb6ba1385a2676bfbf48479d8f184.png@1320w_996h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/374d33eb045fb6ba1385a2676bfbf48479d8f184.png@1320w_996h.jpg)
 
 选择 `在此处打开Powershell窗口(S)`
 
@@ -61,15 +61,15 @@ hexo server  #(或者简写hexo s)
 
 到这里，你就成功地启动了本地的Hexo服务器，一般访问`localhost:4000`或者`127.0.0.1:4000`能够访问到Hexo的本地页面
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/212d18bde8bff5a2e782fcb151b4536d7d84e37d.png@1320w_702h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/212d18bde8bff5a2e782fcb151b4536d7d84e37d.png@1320w_702h.jpg)
 
 正常的页面输出
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/f04d8f0349335beaf7319ff15115c5662c8488fa.png@1320w_702h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/f04d8f0349335beaf7319ff15115c5662c8488fa.png@1320w_702h.jpg)
 
 此时按下Control+C可以停止本地服务器
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/73fdfea9f782d12bd0fc506d6eaf62f7c7787a30.png@1320w_702h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/73fdfea9f782d12bd0fc506d6eaf62f7c7787a30.png@1320w_702h.jpg)
 
 默认Hexo页面
 
@@ -78,7 +78,7 @@ hexo server  #(或者简写hexo s)
 > 先按下Control+C停止本地服务器，你也可以新建一个Powershell窗口  
 > 首先键入：hexo generate来生成静态页面
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/7eb00fe132f2c44c5d40a93f3d43f6b7c1fa555e.png@1320w_1360h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/7eb00fe132f2c44c5d40a93f3d43f6b7c1fa555e.png@1320w_1360h.jpg)
 
 生成静态页面
 
@@ -94,15 +94,15 @@ git commit -m "随便写，这是提交描述"
 
 还记得之前那个GitHub页面吗，现在打开它，将图中被框上的的两行字拷贝，然后键入到Powershell
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/964fd975ccd30311292f88f60cbbae14c61e10a2.png@1320w_670h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/964fd975ccd30311292f88f60cbbae14c61e10a2.png@1320w_670h.jpg)
 
 将图中被框上的两行字拷贝，然后粘贴/键入到Powershell
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/3f6f64a2cfc745dd88f0660e37c091bf75301e30.png@1320w_936h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/3f6f64a2cfc745dd88f0660e37c091bf75301e30.png@1320w_936h.jpg)
 
 这里是正常的Powershell提示
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/f58b05283b8a926fa54743357a0e3d9c670a3cf9.png@1320w_268h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/f58b05283b8a926fa54743357a0e3d9c670a3cf9.png@1320w_268h.jpg)
 
 这里是正常的Powershell提示
 
@@ -112,13 +112,13 @@ git commit -m "随便写，这是提交描述"
 > 或：`  
 > git config --global user.name "你的账户名"`
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/adbd0b0fa7b50f134230839d10ecafcfb6f6e909.png@1320w_398h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/adbd0b0fa7b50f134230839d10ecafcfb6f6e909.png@1320w_398h.jpg)
 
 如果出现如图所示警告则键入"git config --global user.email "注册邮箱""
 
              此时刷新GitHub页面，就能看到多了一些文件，此时访问"你的用户名.github.io"对于仓库名没有起为"你的用户名.github.io"的则访问"你的用户名.github.io/仓库名"应当就能看到与本地服务器显示一致的网页。
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/42e87010a7ae443a24be2603eacc123eeb0b1182.png@1320w_670h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/42e87010a7ae443a24be2603eacc123eeb0b1182.png@1320w_670h.jpg)
 
 此时刷新GitHub页面，就能看到多了一些文件
 
@@ -126,7 +126,7 @@ git commit -m "随便写，这是提交描述"
 
 如果无法正常访问可以尝试查看`Settings`里的`GitHub Pages`
 
-![](https://cdn.jsdelivr.net/gh/HanHan233/blog-old@master/passages/20200430/f51de6040afd838b7ff607a57f69913af0fdf1e0.png@1320w_666h.jpg)
+![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200430/f51de6040afd838b7ff607a57f69913af0fdf1e0.png@1320w_666h.jpg)
 
 如果无法正常访问可以尝试查看Settings里的GitHub Pages  
 （这张图是正常的）
