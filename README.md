@@ -1,2 +1,2 @@
-# Yuameshi.github.io
+# MyBlog
 myNewBlogBasedOnHexo

@@ -103,7 +103,7 @@ theme: Meadow
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:Yuameshi/Yuameshi.github.io.git
+  repository: git@github.com:Yuameshi/MyBlog.git
   branch: gh-pages
 feed:
   enable: true
