@@ -13,9 +13,9 @@ date: 2000-12-31 23:55:00
 
 欢迎来到我的个人页：[han-han.xyz](https://han-han.xyz/)。
 
-有一个 Telegram账户：[@Yuameshi33](https://t.me/hanhan23333)。
+有一个 Telegram账户：[@Yuameshi](https://t.me/yuameshi)。
 
-还有个自言自语的TG频道：[@憨の无用之言](https://t.me/IN_ACCESSIBLE_BOOT_DEVICE)
+还有个自言自语的TG频道：[@憨の无用之言](https://t.me/Yuameshi_Words)
 
 喜欢电脑，会打代码，会剪视频(格式工厂那种)加特效(PPT/CSS3/GSAP强行加那种)，偶尔做一些奇怪的小项目。
 
@@ -76,7 +76,7 @@ MoYou - 5CNY@2021/08/09
 # 联系我
 
 *   QQ: 2636099143
-*   Telegram: [@Yuameshi33](https://t.me/hanhan23333)
+*   Telegram: [@Yuameshi](https://t.me/yuameshi)
 *   Github: [@Yuameshi](https://github.com/Yuameshi)
 *   BiliBili：[UID-108238952](https://b23.tv/7bJOta)
 *   Steam：[2636099143](https://steamcommunity.com/id/2636099143)
