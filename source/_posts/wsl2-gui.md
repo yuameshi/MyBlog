@@ -48,7 +48,7 @@ swap=2GB
 localhostForwarding=true
 ```
 
-[![](/wp-content/uploads/2021/05/image-4.png)](https://www.han-han.xyz/wp-content/uploads/2021/05/image-4.png)
+[![](/wp-content/uploads/2021/05/image-4.png)](https://www.yuameshi.top/wp-content/uploads/2021/05/image-4.png)
 
 .wslconfig
 
@@ -108,12 +108,12 @@ sudo /etc/init.d/xrdp restart
 
 然后就会开启一个登陆页面，在这里输入您在WSL中的账号和密码，并单击Login。
 
-[![](/wp-content/uploads/2021/05/image-10.png)](https://www.han-han.xyz/wp-content/uploads/2021/05/image-10.png)
+[![](/wp-content/uploads/2021/05/image-10.png)](https://www.yuameshi.top/wp-content/uploads/2021/05/image-10.png)
 
 登录XRDP
 
 然后就可以看到KDE的初始画面了。
 
-[![](/wp-content/uploads/2021/05/image-12.png)](https://www.han-han.xyz/wp-content/uploads/2021/05/image-12.png)
+[![](/wp-content/uploads/2021/05/image-12.png)](https://www.yuameshi.top/wp-content/uploads/2021/05/image-12.png)
 
 这不是初始画面（）

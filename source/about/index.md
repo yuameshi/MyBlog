@@ -11,7 +11,7 @@ date: 2000-12-31 23:55:00
 
 憨憨是我的自称(但实际上不配)，栖息于广东某十八线小城市。
 
-欢迎来到我的个人页：[han-han.xyz](https://han-han.xyz/)。
+欢迎来到我的个人页：[yuameshi.top](https://yuameshi.top/)。
 
 有一个 Telegram账户：[@Yuameshi](https://t.me/yuameshi)。
 

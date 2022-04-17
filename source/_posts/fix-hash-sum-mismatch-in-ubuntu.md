@@ -12,7 +12,7 @@ categories:
   - - 伪*Server运维
   - - 日常
 date: 2021-07-07 21:59:52
-headerBG: https://i1.wp.com/www.han-han.xyz/wp-content/uploads/2021/07/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2021-07-07-215720.png?fit=720%2C205&ssl=1
+headerBG: https://i1.wp.com/www.yuameshi.top/wp-content/uploads/2021/07/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2021-07-07-215720.png?fit=720%2C205&ssl=1
 ---
 
 最近在WTG的WSL(1)上执行`sudo apt update`报错：`E: Failed to fetch store:/var/lib/apt/lists/partial/mirrors.aliyun.com_ubuntu_dists_focal-proposed_restricted_cnf_Commands-amd64 Hash Sum mismatch`

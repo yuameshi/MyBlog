@@ -49,6 +49,10 @@ jobs:
           npm install hexo -g
           npm install
 
+      - name: Delete Hello World Post
+        run: |
+          rm -f ./source/_posts/hello-world.md
+
       - name: Hexo Clean
         run: |
           hexo clean

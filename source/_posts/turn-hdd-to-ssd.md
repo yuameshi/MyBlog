@@ -12,7 +12,7 @@ date: 2020-04-17 13:08:00
 
 叫PrimoCache，话不多说，直接上图:
 
-[![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/aida64.jpg)](https://blog-old.han-han.xyz/passages/20200417/aida64.jpg)
+[![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200417/aida64.jpg)](https://blog-old.yuameshi.top/passages/20200417/aida64.jpg)
 
 AIDA64磁盘信息
 

@@ -16,5 +16,5 @@ jobs:
         run: |
           commitMsg=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
           echo Commit message: $commitMsg
-          commitMsg='Blog有新的提交了，具体内容为：'$commitMsg' \r\n 访问：https://www.han-han.xyz/ 来查看吧！'
+          commitMsg='Blog有新的提交了，具体内容为：'$commitMsg' \r\n 访问：https://www.yuameshi.top/ 来查看吧！'
           curl https://api.telegram.org/bot$botToken/sendMessage -X POST -d 'chat_id=-1001638488826&text='$commitMsg'' && exit 0;

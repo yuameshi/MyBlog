@@ -12,7 +12,7 @@ date: 2001-01-01 00:00:10
 
 ## 我们是谁
 
-我们的站点地址是：[https://(www.)han-han.xyz/](https://www.han-han.xyz/)，同时也使用[https://(www.)hanhan233.xyz](https://www.hanhan233.xyz)这一域名。
+我们的站点地址是：[https://(www.)yuameshi.top/](https://www.yuameshi.top/)。
 
 ## 我们收集何种及为何收集个人数据
 
