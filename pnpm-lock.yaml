@@ -15,8 +15,7 @@ specifiers:
   hexo-renderer-marked: ^5.0.0
   hexo-renderer-stylus: ^2.0.0
   hexo-server: ^3.0.0
-  hexo-theme-landscape: ^0.0.3
-  hexo-theme-mdx: 0.0.2-beta
+  hexo-theme-mdx: 0.0.3-beta
 
 dependencies:
   hexo: 6.1.0
@@ -33,8 +32,7 @@ dependencies:
   hexo-renderer-marked: 5.0.0
   hexo-renderer-stylus: 2.0.1
   hexo-server: 3.0.0
-  hexo-theme-landscape: 0.0.3
-  hexo-theme-mdx: 0.0.2-beta_u7g7hplcwgn233i3tzifd2xahq
+  hexo-theme-mdx: 0.0.3-beta_u7g7hplcwgn233i3tzifd2xahq
 
 packages:
 
@@ -1639,12 +1637,8 @@ packages:
       serve-static: 1.15.0
     dev: false
 
-  /hexo-theme-landscape/0.0.3:
-    resolution: {integrity: sha512-b0Di+TUVs4ESrNX4ULEh9uQmADpO6kr10rIJ2OGZM8suNQNFKdxn+vJUjnLfKkCPJAfVmS7/S83KCNYe4tpoNw==}
-    dev: false
-
-  /hexo-theme-mdx/0.0.2-beta_u7g7hplcwgn233i3tzifd2xahq:
-    resolution: {integrity: sha512-bG4W25KIvgsvwJZolv5jLoK6ehTHnBJodthsCESlZNuJjbayHhk/zYbBAkpbAm3UGKkKYrt70jLKa3pO9A4LzQ==}
+  /hexo-theme-mdx/0.0.3-beta_u7g7hplcwgn233i3tzifd2xahq:
+    resolution: {integrity: sha512-qRyN8rd9A/wfATQdZAQlXud5V7RK2rx2EantseFkhiuYMfkLk/JmWw+LfD5b8bneEiVQ//lVFld6iZu6sHZ/8g==}
     engines: {node: '>=14.6.0'}
     peerDependencies:
       hexo-renderer-ejs: ^2.0.0
