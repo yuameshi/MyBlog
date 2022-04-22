@@ -48,6 +48,7 @@ jobs:
           npm install hexo-cli -g
           npm install hexo -g
           npm install
+          npm install hexo-theme-mdx@latest --save
 
       - name: Delete Hello World Post
         run: |

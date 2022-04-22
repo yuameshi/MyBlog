@@ -3,6 +3,7 @@ Thumbs.db
 db.json
 *.log
 node_modules/
+themes/mdx
 public/
 .deploy*/
 _multiconfig.yml
