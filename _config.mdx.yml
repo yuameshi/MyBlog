@@ -1,6 +1,6 @@
 # 主题设置
 use_cdn: true # 是否使用 CDN 加速（staticfile.org）
-include_font_awesome: true # 是否使用 Font Awesome 字体图标(懒得写了，FA直接是CDN，没用本地)
+include_font_awesome: false # 是否使用 Font Awesome 字体图标(懒得写了，FA直接是CDN，没用本地)
 
 # 主题颜色
 color:
@@ -50,11 +50,10 @@ footer:
   theme: true
   text: 
   contact:
-    Github: https://github.com/Yuameshi/ || fa-brands fa-github
-    Email: mailto:yuameshi@outlook.com || fa fa-envelope
-    Steam: https://steamcommunity.com/id/2636099143 || fa-brands fa-steam
-    Twitter: https://twitter.com/HanHan_233 || fa-brands fa-twitter
-    TelegramAccount: https://t.me/yuameshi || fa-brands fa-telegram
-    TelegramChannel: https://t.me/Yuameshi_Words || fa-brands fa-telegram
+    Github: https://github.com/Yuameshi/
+    Email: mailto:yuameshi@outlook.com
+    Twitter: https://twitter.com/HanHan_233
+    Telegram: https://t.me/yuameshi
+    TGChannel: https://t.me/Yuameshi_Words
   miit_icp: 
   moe_icp: 20224680
