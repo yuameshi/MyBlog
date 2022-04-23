@@ -7,8 +7,8 @@ color:
   primary: indigo
   accent: pink
 
-header_picture_link: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87489781_p0.webp?v=1
-favicon: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/Avatar.png?v=1
+header_picture_link: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87489781_p0.3840px.webp?max-age=31536000
+favicon: /favicon.ico?max-age=31536000
 excerpt_length: 250 #自动生成的摘要长度 建议文章中手动使用 <!--more--> 效果更佳  
 tag_page_count: true #Tag页是否计数
 
@@ -20,10 +20,10 @@ search:
 # 抽屉菜单的关于
 drawer_about:
   enable: true
-  avatar: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/Avatar.png?v=1
+  avatar: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/Avatar.150px.webp?max-age=31536000
   name: Yuameshi
   slogan: qwq
-  background: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87478484_p0.webp?v=1
+  background: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87478484_p0.1000px.webp?max-age=31536000
   is_dark: true
 
 # 抽屉菜单
