@@ -2,7 +2,7 @@
 title: 给适用于Windows的Linux子系统(第二代)添加图形界面
 tags:
   - Linux子系统
- - WSL2
+  - WSL2
 id: '460'
 categories:
   - - 伪*Server运维
