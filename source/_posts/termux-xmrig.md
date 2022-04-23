@@ -1,14 +1,10 @@
 ---
 title: 使用Termux进行手机挖矿(XMR)
 tags:
-  - ARM
   - Termux
   - XMRig
-  - XMRig-ARM
   - 开发
-  - 手机挖矿
-  - 日常
-  - 闲时赚钱
+  - 挖矿
 id: '357'
 categories:
   - - 开发

@@ -1,14 +1,8 @@
 ---
 title: 给适用于Windows的Linux子系统(第二代)添加图形界面
 tags:
-  - KDE
   - Linux子系统
-  - Win10
-  - Windows Subsystem Linux
-  - Windows10
-  - WSL
-  - WSL2
-  - 图形界面
+ - WSL2
 id: '460'
 categories:
   - - 伪*Server运维

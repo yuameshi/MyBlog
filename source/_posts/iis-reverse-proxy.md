@@ -3,14 +3,8 @@ title: IIS反向代理_基础方法以及某些小坑
 tags:
   - IIS
   - Web
-  - Windows
   - Windows Server
   - 伪*Server运维
-  - 学习心得
-  - 开发
-  - 知识
-  - 系统
-  - 经验分享
 id: '554'
 categories:
   - - 伪*Server运维

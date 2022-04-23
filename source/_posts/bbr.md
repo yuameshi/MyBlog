@@ -1,10 +1,8 @@
 ---
 title: 得，原来之前一直没开BBR
 tags:
-  - BBR
   - Linux
   - 伪*Server运维
-  - 系统
 id: '160'
 categories:
   - - 伪*Server运维

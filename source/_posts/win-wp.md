@@ -1,16 +1,9 @@
 ---
 title: Windows+IIS环境下配置WordPress教程
 tags:
-  - MySQL
-  - PHP
+  - 伪*Server运维
+  - 开发
   - WordPress
-  - 制作过程
-  - 学习
-  - 学习心得
-  - 技术宅
-  - 知识
-  - 经验分享
-  - 野生技术协会
 id: '102'
 categories:
   - - 伪*Server运维

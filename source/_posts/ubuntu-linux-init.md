@@ -1,14 +1,7 @@
 ---
 title: Ubuntu-Linux服务器初始化(其实就是个备忘录)
 tags:
-  - BBR
-  - Let&#039;s Encrypt
   - Linux
-  - LNMP
-  - MySQL
-  - Trojan
-  - Ubuntu
-  - 初始化
 id: '173'
 categories:
   - - 伪*Server运维

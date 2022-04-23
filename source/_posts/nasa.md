@@ -1,9 +1,7 @@
 ---
 title: 晚了一个月的船票（）
 tags:
-  - NASA
   - 日常
-  - 火星
 id: '339'
 categories:
   - - 日常

@@ -2,10 +2,7 @@
 title: PowerShell美化 - 今月份的水博客
 tags:
   - PowerShell
-  - PS
   - Windows
-  - 伪*Server运维
-  - 系统
 id: '589'
 categories:
   - - 开发

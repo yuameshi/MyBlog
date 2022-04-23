@@ -2,6 +2,8 @@
 title: 入 新 坑
 tags:
   - 迁移自旧Blog
+  - 崩坏3
+  - 日常
 id: '64'
 categories:
   - - 迁移自旧Blog

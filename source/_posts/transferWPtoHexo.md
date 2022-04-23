@@ -1,12 +1,12 @@
 ---
 title: 将WordPress迁移至Hexo
 date: 2021-09-21 09:49:21
-tags: 迁移,WordPress,Hexo,转移
+tags: 迁移,WordPress,Hexo
 headerBG: /wp-content/uploads/2021/09/transWHheadpic.png
 ---
 >警告
 
->这篇文章没有任何图片，表述也较为简短
+>这篇文章没有任何图片，表述也较为简短晦涩
 # 1.迁移文章
 这里，我们借助一个Hexo的插件，您可以通过`npm i hexo-migrator-wordpress`来安装。
 

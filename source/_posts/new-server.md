@@ -1,10 +1,6 @@
 ---
 title: 得，买了个新Server
-tags:
-  - VPS
-  - 国外服务器
-  - 服务器
-  - 购买
+tags: 日常,伪*Server运维
 id: '106'
 categories:
   - - 伪*Server运维
