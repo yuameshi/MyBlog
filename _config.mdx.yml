@@ -9,7 +9,7 @@ color:
 
 gdpr_cookie_alert:
   enable: true
-  text: 此网站使用Cookie来改善您的体验。<br><a aria-label="view our privacy policy" href="/privacy/" target="_blank">点此查看我们的隐私政策</a><br><a aria-label="learn more about cookies" href="https://www.cookiesandyou.com" rel="noopener noreferrer nofollow" target="_blank">什么是Cookies</a>
+  text: 此网站使用Cookie来改善您的体验。<br><a aria-label="view our privacy policy" class="mdui-text-color-theme-accent" href="/privacy/" target="_blank">点此查看我们的隐私政策</a><br><a aria-label="learn more about cookies" class="mdui-text-color-theme-accent" href="https://www.cookiesandyou.com" rel="noopener noreferrer nofollow" target="_blank">什么是Cookies</a>
 
 header_picture_link: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87489781_p0.3840px.webp?max-age=31536000
 favicon: /favicon.ico?max-age=31536000
