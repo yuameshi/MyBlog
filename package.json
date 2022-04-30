@@ -11,6 +11,9 @@
 	"hexo": {
 		"version": "6.1.0"
 	},
+	"resolutions": {
+		"stylus": "^0.57.0"
+	},
 	"dependencies": {
 		"hexo": "^6.1.0",
 		"hexo-all-minifier": "^0.5.7",
