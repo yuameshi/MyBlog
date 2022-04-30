@@ -1,6 +1,8 @@
 ---
 title: 得，买了个新Server
-tags: 日常,伪*Server运维
+tags: 
+  - 日常
+  - 伪*Server运维
 id: '106'
 categories:
   - - 伪*Server运维

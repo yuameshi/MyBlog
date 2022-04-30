@@ -1,7 +1,10 @@
 ---
 title: 将WordPress迁移至Hexo
 date: 2021-09-21 09:49:21
-tags: 迁移,WordPress,Hexo
+tags: 
+  - 迁移
+  - WordPress
+  - Hexo
 headerBG: /wp-content/uploads/2021/09/transWHheadpic.png
 ---
 >警告

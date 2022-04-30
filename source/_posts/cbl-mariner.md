@@ -2,16 +2,8 @@
 title: 来自Microsoft的Linux！构建/安装CBL-Mariner
 tags:
   - Linux
-  - Microsoft
   - 伪*Server运维
-  - 初始化
-  - 制作过程
-  - 学习
   - 开发
-  - 技术宅
-  - 日常
-  - 知识
-  - 经验分享
 id: '601'
 categories:
   - - 伪*Server运维
