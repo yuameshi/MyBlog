@@ -59,7 +59,7 @@ comment:
     repo: Yuameshi/MyBlog
     issue_term: pathname
     lable: utteranc
-    theme: github-light
+    theme: preferred-color-scheme
 
 
 analytics:
