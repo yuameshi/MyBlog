@@ -64,14 +64,17 @@ QQ支付
 
 不定期手动更新，有延迟请见谅
 
+<details>
+<summary>点击展开捐赠名单</summary>
 
+| 名称 | 金额 | 时间 |
+| --- | --- | --- |
+| DrMengbao | 1CNY | 2021/02/17 |
+| 四月是你的谎言 | 20CNY | 2021/07/25 |
+| MoYou - 5CNY | 2021/08/09 |
+| IcebearType | 50CNY | 2022/04/23 |
 
-DrMengbao - 1CNY@2021/02/17
-
-四月是你的谎言 - 20CNY@2021/07/25
-
-MoYou - 5CNY@2021/08/09
-
+</details>
 
 # 联系我
 
