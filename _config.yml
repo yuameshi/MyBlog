@@ -42,7 +42,7 @@ highlight:
   line_number: true
   auto_detect: true
   # tab_replace: ''
-  wrap: true
+  wrap: false
   hljs: true
 prismjs:
   enable: false
@@ -90,7 +90,12 @@ feed:
   order_by: -date
   icon: icon.png
   autodiscovery: true
-  
+
+search:
+  path: search.json
+  field: post
+  content: true
+
 all_minifier: true
 
 js_concator:
