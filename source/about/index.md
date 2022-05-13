@@ -64,18 +64,14 @@ QQ支付
 
 不定期手动更新，有延迟请见谅
 
-<details>
-<summary>点击展开捐赠名单</summary>
-
+{% mdx_fold 点击展开捐赠名单 false %} 
 | 名称 | 金额 | 时间 |
 | --- | --- | --- |
 | DrMengbao | 1CNY | 2021/02/17 |
 | 四月是你的谎言 | 20CNY | 2021/07/25 |
 | MoYou - 5CNY | 2021/08/09 |
 | IcebearType | 50CNY | 2022/04/23 |
-
-</details>
-
+{% endmdx_fold %}
 # 联系我
 
 *   QQ: 2636099143
@@ -83,5 +79,5 @@ QQ支付
 *   Github: [@Yuameshi](https://github.com/Yuameshi)
 *   BiliBili：[UID-108238952](https://b23.tv/7bJOta)
 *   Steam：[2636099143](https://steamcommunity.com/id/2636099143)
-*   发送邮件：[hanhan.233@qq.com](mailto:hanhan.233@qq.com)
-*   Twitter：[@HanHan\_233](https://twitter.com/HanHan_233)
+*   发送邮件：[yuameshi@outlook.com](mailto:yuameshi@outlook.com)
+*   Twitter：[@Yuameshi](https://twitter.com/Yuameshi)
