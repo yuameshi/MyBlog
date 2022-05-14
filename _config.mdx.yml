@@ -47,7 +47,7 @@ passage_end_tag:
   text: '本文链接：<a href="%link%">%link%</a><br>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed" target="_blank" rel="noopener">CC BY-NC-SA 3.0</a> 协议进行许可'
 
 comment:
-  use: 'utteranc'
+  use: 'utterances'
   gitalk:
     clientID: 
     clientSecret: 
@@ -55,7 +55,7 @@ comment:
     owner: 
     admin: ['']
     distractionFreeMode: true
-  utteranc:
+  utterances:
     repo: Yuameshi/MyBlog
     issue_term: pathname
     lable: utteranc
