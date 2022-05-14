@@ -69,7 +69,7 @@ QQ支付
 | --- | --- | --- |
 | DrMengbao | 1CNY | 2021/02/17 |
 | 四月是你的谎言 | 20CNY | 2021/07/25 |
-| MoYou - 5CNY | 2021/08/09 |
+| MoYou | 5CNY | 2021/08/09 |
 | IcebearType | 50CNY | 2022/04/23 |
 {% endmdx_fold %}
 # 联系我
