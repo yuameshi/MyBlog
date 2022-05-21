@@ -1,5 +1,5 @@
 # 主题设置
-cdn_provider: 'bytedance' # 是否使用 CDN 加速
+cdn_provider: 'cdnjs' # 是否使用 CDN 加速
 
 # 主题颜色
 color:
