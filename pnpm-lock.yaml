@@ -2,6 +2,8 @@ lockfileVersion: 5.4
 
 overrides:
   stylus: ^0.57.0
+  uuid: ^8.3.2
+  chokidar: ^3.5.3
 
 specifiers:
   hexo: ^6.1.0
@@ -5193,7 +5195,7 @@ packages:
     engines: {node: '>=4'}
     dependencies:
       temp-dir: 1.0.0
-      uuid: 3.4.0
+      uuid: 8.3.2
     dev: false
 
   /tempy/0.6.0:
@@ -5443,9 +5445,8 @@ packages:
     engines: {node: '>= 0.4.0'}
     dev: false
 
-  /uuid/3.4.0:
-    resolution: {integrity: sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==}
-    deprecated: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+  /uuid/8.3.2:
+    resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
     hasBin: true
     dev: false
 
