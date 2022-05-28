@@ -10,7 +10,7 @@ gdpr_cookie_alert:
   enable: true
   text: 此网站使用Cookie来改善您的体验。<br><a aria-label="view our privacy policy" class="mdui-text-color-theme-accent" href="/privacy/" target="_blank">点此查看我们的隐私政策</a><br><a aria-label="learn more about cookies" class="mdui-text-color-theme-accent" href="https://www.cookiesandyou.com" rel="noopener noreferrer nofollow" target="_blank">什么是Cookies</a>
 
-header_picture_link: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87489781_p0.3840px.webp
+header_picture_link: https://cdn.yuameshi.top/background-pictures/87489781_p0.3840px.webp
 favicon: /favicon.ico
 excerpt_length: 250 #自动生成的摘要长度 建议文章中手动使用 <!--more--> 效果更佳  
 tag_page_count: true #Tag页是否计数
@@ -23,10 +23,10 @@ search:
 # 抽屉菜单的关于
 drawer_about:
   enable: true
-  avatar: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/Avatar.150px.webp
+  avatar: https://cdn.yuameshi.top/background-pictures/Avatar.150px.webp
   name: Yuameshi
   slogan: qwq
-  background: https://cdn.jsdelivr.net/gh/Yuameshi/Blog-CDN@main/background-pictures/87478484_p0.1000px.webp
+  background: https://cdn.yuameshi.top/background-pictures/87478484_p0.1000px.webp
   is_dark: true
 
 # 抽屉菜单
