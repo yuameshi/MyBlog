@@ -10,5 +10,13 @@ module.exports = {
 			urlPattern: /^https:\/\/cdn\.jsdelivr\.net\/.*/,
 			handler: 'CacheFirst',
 		},
+		{
+			urlPattern: /^https:\/\/cdnjs\.cloudflare\.com\/.*/,
+			handler: 'CacheFirst',
+		},
+		{
+			urlPattern: /^https:\/\/cdn\.yuameshi\.top\/.*/,
+			handler: 'CacheFirst',
+		},
 	],
 };
