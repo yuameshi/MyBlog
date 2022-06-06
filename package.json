@@ -12,7 +12,7 @@
 		"version": "6.1.0"
 	},
 	"resolutions": {
-		"stylus": "^0.57.0",
+		"stylus": "^0.58.1",
 		"uuid": "^8.3.2",
 		"chokidar": "^3.5.3"
 	},
