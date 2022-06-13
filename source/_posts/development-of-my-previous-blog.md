@@ -16,7 +16,7 @@ date: 2020-04-01 11:40:00
 
 老的Index↓
 
-![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200401/oldIndex.jpg)
+![](https://blog-old.yuameshi.top/passages/20200401/oldIndex.jpg)
 
 嘛，大概长这样(怀旧一波)↑
 
@@ -30,6 +30,6 @@ date: 2020-04-01 11:40:00
 
 我寻思着得改一下UI了，WordPress要注册，Typecho要PHP环境(你现在也用WP/PHP啊喂)，所以就又花了半天去写了个新的UI，就是现在那个CaoCho，你也可以称为CaoPress。后来我又陆陆续续加了一个Live2D看板娘，一个播放器(感谢LRain大佬)。 然后大概就变成现在的样子了。
 
-![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200401/nowadays.jpg)
+![](https://blog-old.yuameshi.top/passages/20200401/nowadays.jpg)
 
 现在的样子（样子奇葩的很）

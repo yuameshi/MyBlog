@@ -14,10 +14,10 @@ date: 2020-06-09 19:03:00
 
 这里是自己做的那个：[点击前往](https://blog-old.yuameshi.top/proj/qqmusic)
 
-![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200609/IMG_1.jpg)
+![](https://blog-old.yuameshi.top/passages/20200609/IMG_1.jpg)
 
 仓库页面
 
-![](https://cdn.jsdelivr.net/gh/Yuameshi/blog-old@master/passages/20200609/IMG_2.jpg)
+![](https://blog-old.yuameshi.top/passages/20200609/IMG_2.jpg)
 
 应用截图
