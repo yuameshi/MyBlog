@@ -1,8 +1,8 @@
 {
-	"name": "Yuameshiの窝(不支持离线载入)",
+	"name": "Yuameshiの窝(暂不支持离线载入)",
 	"short_name": "糸の窝",
 	"lang": "zh-CN",
-	"description": "一个技术小白的博客",
+	"description": "一个废物的博客",
 	"theme_color": "#3F51B5",
 	"background_color": "#3F51B5",
 	"display": "minimal-ui",
@@ -10,7 +10,7 @@
 	"start_url": "/",
 	"icons": [
 		{
-			"src": "/favicon.ico",
+			"src": "/pwa.png",
 			"sizes": "256x256",
 			"type": "image/png"
 		}
