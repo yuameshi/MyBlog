@@ -47,16 +47,16 @@ date: 2000-12-31 23:55:00
 
 （这么多支付方式怕不是想钱想疯了）
 
-<img src="https://cdn.yuameshi.top/background-pictures/wechatRewardCode.webp" style="width: 100%;max-width: 320px">
+<img src="https://cdn.yuameshi.top/images/blog/wechatRewardCode.webp" style="width: 100%;max-width: 320px">
 
 
 微信赞赏码
 
-<img src="https://cdn.yuameshi.top/background-pictures/qqPaymentCode.webp" style="width: 100%;max-width: 320px">
+<img src="https://cdn.yuameshi.top/images/blog/qqPaymentCode.webp" style="width: 100%;max-width: 320px">
 
 QQ支付
 
-<img src="https://cdn.yuameshi.top/background-pictures/afdian-%E7%94%B1%E9%9B%A8%E7%B3%B8.webp" style="width:100%;max-width: 320px">
+<img src="https://cdn.yuameshi.top/images/blog/afdian.webp" style="width:100%;max-width: 320px">
 
 爱发电
 
