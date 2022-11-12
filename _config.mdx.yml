@@ -7,7 +7,7 @@ color:
   accent: pink
 
 online_check:
-  enable: true
+  enable: false
 
 gdpr_cookie_alert:
   enable: true

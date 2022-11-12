@@ -27,7 +27,7 @@ date: 2000-12-31 23:55:00
 
 *   目前最喜欢的编辑器是 VS Code
 
-*   会用一点 Linux，真的一点。
+*   会用一点 Linux，真的只有一点。
 
 *   macOS就用着一个最高到10.13的[Mac mini Server (2010 年中)](https://support.apple.com/kb/SP586) (也没当server用)
 
@@ -39,26 +39,21 @@ date: 2000-12-31 23:55:00
 
 *   除了码程序，另一个爱好就是打三蹦子，2020/4登舰（大非酋）(UID:256690624/256095600)
 
-> 欢迎你的来到，欢迎友链。
+> 欢迎你的到来，欢迎友链。
+
+<a name="donate"></a><br /><br />
 
 ## 赞助我
 
-请我喝杯烫烫烫冰镇的锟斤拷可乐！
+请我喝杯~~烫烫烫~~冰镇的~~锟斤拷~~可乐！
 
 （这么多支付方式怕不是想钱想疯了）
 
-<img src="https://cdn.yuameshi.top/images/blog/wechatRewardCode.webp" style="width: 100%;max-width: 320px">
+![微信赞赏码](https://cdn.yuameshi.top/images/blog/wechatRewardCode.webp)
 
+![QQ支付](https://cdn.yuameshi.top/images/blog/qqPaymentCode.webp)
 
-微信赞赏码
-
-<img src="https://cdn.yuameshi.top/images/blog/qqPaymentCode.webp" style="width: 100%;max-width: 320px">
-
-QQ支付
-
-<img src="https://cdn.yuameshi.top/images/blog/afdian.webp" style="width:100%;max-width: 320px">
-
-爱发电
+![爱发电](https://cdn.yuameshi.top/images/blog/afdian.webp)
 
 非常感谢赞助我的各位。
 
