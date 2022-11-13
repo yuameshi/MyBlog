@@ -16,7 +16,7 @@ module.exports = {
 		},
 		{
 			urlPattern: /^https:\/\/www\.yuameshi\.top\/.*/,
-			handler: 'CacheFirst',
+			handler: 'StaleWhileRevalidate',
 		},
 		{
 			urlPattern: /^https:\/\/blog-old\.yuameshi\.top\/.*/,
