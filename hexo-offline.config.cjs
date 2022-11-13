@@ -4,7 +4,7 @@ module.exports = {
 		'**/*.{svg,eot,woff,woff2,min.js,min.css}'
 	],
 	globDirectory: './public',
-	swDest: './public/sw.js',
+	swDest: './public/service-worker.js',
 	runtimeCaching: [
 		{
 			urlPattern: /^https:\/\/cdnjs\.cloudflare\.com\/.*/,
@@ -12,6 +12,10 @@ module.exports = {
 		},
 		{
 			urlPattern: /^https:\/\/cdn\.yuameshi\.top\/.*/,
+			handler: 'CacheFirst',
+		},
+		{
+			urlPattern: /^https:\/\/www\.yuameshi\.top\/.*/,
 			handler: 'CacheFirst',
 		},
 		{
