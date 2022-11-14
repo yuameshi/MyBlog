@@ -3,9 +3,10 @@ subtitle: '大废物'
 description: '一个大废物的博客'
 keywords: 
   - "Yuameshi"
+  - "糸"
   - "博客"
   - "Blog"
-author: Yuameshi
+author: 糸
 language: zh-CN
 timezone: ''
 
@@ -88,7 +89,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: icon.png
+  icon: /pwa.png
   autodiscovery: true
 
 search:
