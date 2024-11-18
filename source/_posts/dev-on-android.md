@@ -15,6 +15,11 @@ pkg in x11-repo
 pkg in libvips xorgproto build-essential
 ```
 
+>gyp: Undefined variable android_ndk_path in binding.gyp while trying to load binding.gyp
+>```bash
+>export GYP_DEFINES="android_ndk_path=''"
+>```
+
 # proot容器下无法安装npm包（`cacache`不可用）
 没什么好说的，termux环境里搞定然后再在容器里跑
 
