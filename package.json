@@ -11,16 +11,8 @@
 	"hexo": {
 		"version": "7.3.0"
 	},
-	"resolutions": {
-		"semver-regex": "4.0.5",
-		"trim-newlines": "5.0.0",
-		"cross-spawn": "7.0.6",
-		"http-cache-semantics": "4.1.1",
-		"got": "14.4.6"
-	},
 	"dependencies": {
 		"hexo": "^7.3.0",
-		"hexo-all-minifier": "^0.5.7",
 		"hexo-deployer-git": "^4.0.0",
 		"hexo-generator-archive": "^2.0.0",
 		"hexo-generator-category": "^2.0.0",
@@ -37,12 +29,7 @@
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
-			"gifsicle",
-			"hexo-util",
-			"jpegtran-bin",
-			"mozjpeg",
-			"optipng-bin",
-			"pngquant-bin"
+			"hexo-util"
 		]
 	}
 }
